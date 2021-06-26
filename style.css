@@ -1,0 +1,136 @@
+* {
+    margin: 0px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: normal;
+}
+body {
+    background: honeydew;
+}
+.top {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    right: 10000px;
+    background: #1CD1B0;
+    width: 100%;
+    padding: 5px 1024px 5px 15px;
+}
+.banner {
+    position: absolute;
+    top: 20px;
+    background: #00669f;
+    width: 100%;
+    padding: 10px 1000px 10px 30px;
+    font-size: 30px;
+    box-shadow: 0px 10px 7px; 
+    color: rgba (0, 0, 0, 0.05)
+}
+img {
+    position: absolute;
+    top: 50x;
+    left: 1px;
+    width: 310px;
+    height: 193px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+.caja1 {
+    position: absolute;
+    top: 275px;
+    left: 32px;
+    width: 310px;
+    height: 500px;
+    background: #f3f3f3;
+}
+.heart {
+    position: absolute;
+    z-index: 1;
+    width: 25px;
+    height: 25px;
+    padding-top: 15px;
+    padding-left: 15px;
+}
+.bat {
+    position: relative;
+    z-index: 1;
+    top: 141px;
+    left: 110px;
+    width: 95px;
+    height: 95px;
+    border-radius: 50%;
+}
+.t1 {
+    position: relative;
+    z-index: 1;
+    top: 149px;
+    left: 105px;
+}
+.text1 {
+    position: absolute;
+    top: 293px;
+    right: 20px;
+    left: 30px;
+}
+h4 {
+    position: absolute;
+    z-index: 1;
+    top: 440px;
+    left: 95px;
+    padding: 15px 37px 15px 37px;
+    background: #00669f;
+    color: white;
+}
+.caja2 {
+    position: absolute;
+    top: 275px;
+    left: 380px;
+    width: 310px;
+    height: 500px;
+    background: #f3f3f3;
+}
+.perfil {
+    position: relative;
+    z-index: 1;
+    top: 141px;
+    left: 110px;
+    width: 95px;
+    height: 95px;
+    border-radius: 50%;
+}
+.t2 {
+    position: relative;
+    z-index: 1;
+    top: 149px;
+    left: 90px;
+}
+.text2 {
+    position: absolute;
+    top: 293px;
+    right: 20px;
+    left: 30px;
+}
+h4 {
+    position: absolute;
+    z-index: 1;
+    top: 440px;
+    left: 95px;
+    padding: 15px 37px 15px 37px;
+    background: #00669f;
+    color: white;
+}
+.caja3 {
+    position: absolute;
+    top: 275px;
+    left: 725px;
+    width: 310px;
+    height: 500px;
+    background: #f3f3f3;
+}
+.end {
+    position: relative;
+    top: 900px;
+    padding: 15px 800px 15px 8px;
+    background: #00669f;
+    color: white;
+}
